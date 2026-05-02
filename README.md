@@ -11,6 +11,10 @@ Critérios de eleição (priority + Router ID)
 Comportamento não-preemptivo
 Impacto das configurações na formação de adjacências
 
+## Demonstração em vídeo
+
+[![Lab OSPF DR/BDR](https://img.youtube.com/vi/_waUB8tgnrM/0.jpg)](https://youtu.be/_waUB8tgnrM)
+
 -----------------------------------------------------------------------------------------
 
 Problema: Formação Excessiva de Adjacências
